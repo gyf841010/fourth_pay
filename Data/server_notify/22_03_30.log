@@ -1,0 +1,18 @@
+【2022-03-30 09:09:42】
+平台订单号：20220329141221539848
+异步通知地址：http://47.242.170.147:60109/Pay_Charges_notify.html
+通知报文：memberid=10001&orderid=C20220329141221777680&transaction_id=20220329141221539848&amount=100.00&true_amount=100.00&datetime=20220330090942&returncode=00&sign=DF22BC335E605AA23EE1DC6D35E55B82&attach=
+返回信息：OK
+
+【2022-03-30 14:48:52】
+平台订单号：20220330112511555397
+异步通知地址：http://47.242.170.147:60109/Pay_Charges_notify.html
+通知报文：memberid=10001&orderid=C20220330112511960446&transaction_id=20220330112511555397&amount=1.00&true_amount=1.00&datetime=20220330144852&returncode=00&sign=B4BD7E39712BF0B5CF9D90E03119E663&attach=json
+返回信息：OK
+
+【2022-03-30 15:43:11】
+平台订单号：20220330112504489950
+异步通知地址：http://47.242.170.147:60109/Pay_Charges_notify.html
+通知报文：memberid=10001&orderid=C20220330112504121527&transaction_id=20220330112504489950&amount=1.00&true_amount=1.00&datetime=20220330154311&returncode=00&sign=26BA1A874F8FA077079E53A2243411CD&attach=
+返回信息：OK
+
